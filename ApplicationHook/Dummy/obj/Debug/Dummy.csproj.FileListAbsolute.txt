@@ -1,0 +1,7 @@
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\bin\Debug\Dummy.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\bin\Debug\Dummy.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\obj\Debug\Dummy.csprojResolveAssemblyReference.cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\obj\Debug\Dummy.Properties.Resources.resources
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\obj\Debug\Dummy.csproj.GenerateResource.Cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\obj\Debug\Dummy.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Dummy\obj\Debug\Dummy.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\bin\Debug\ApplicationHookConsole.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\bin\Debug\ApplicationHookConsole.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\obj\Debug\ApplicationHookConsole.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\obj\Debug\ApplicationHookConsole.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\obj\Debug\ApplicationHookConsole.csprojResolveAssemblyReference.cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\ApplicationHookConsole\bin\Debug\ApplicationHookConsole.exe.config

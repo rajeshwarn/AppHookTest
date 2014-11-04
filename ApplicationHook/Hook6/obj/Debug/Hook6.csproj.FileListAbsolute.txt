@@ -1,0 +1,8 @@
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.csprojResolveAssemblyReference.cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.Form1.resources
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.Properties.Resources.resources
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.csproj.GenerateResource.Cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\bin\Debug\Hook6.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\bin\Debug\Hook6.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook6\obj\Debug\Hook6.pdb

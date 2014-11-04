@@ -1,0 +1,11 @@
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\bin\Debug\ApplicationHookTest.exe.config
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\bin\Debug\ApplicationHookTest.exe
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\bin\Debug\ApplicationHookTest.pdb
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\bin\Debug\MouseKeyboardActivityMonitor.pdb
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.csprojResolveAssemblyReference.cache
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.Form1.resources
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.Properties.Resources.resources
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.csproj.GenerateResource.Cache
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.exe
+D:\Hovedopgave\HookTest\ApplicationHookTest\ApplicationHookTest\obj\Debug\ApplicationHookTest.pdb

@@ -1,0 +1,4 @@
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook3\bin\Debug\Hook3.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook3\bin\Debug\Hook3.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook3\obj\Debug\Hook3.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook3\obj\Debug\Hook3.pdb

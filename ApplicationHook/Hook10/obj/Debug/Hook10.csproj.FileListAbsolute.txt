@@ -1,0 +1,5 @@
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook10\bin\Debug\Hook10.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook10\bin\Debug\Hook10.pdb
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook10\obj\Debug\Hook10.csprojResolveAssemblyReference.cache
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook10\obj\Debug\Hook10.exe
+D:\VisualStudioGit\RandomSoftware\ApplicationHook\Hook10\obj\Debug\Hook10.pdb

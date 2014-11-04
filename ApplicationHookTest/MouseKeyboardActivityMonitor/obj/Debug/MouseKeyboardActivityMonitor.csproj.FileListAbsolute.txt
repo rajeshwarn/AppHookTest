@@ -1,0 +1,5 @@
+D:\Hovedopgave\HookTest\ApplicationHookTest\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Hovedopgave\HookTest\ApplicationHookTest\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.pdb
+D:\Hovedopgave\HookTest\ApplicationHookTest\MouseKeyboardActivityMonitor\obj\Debug\MouseKeyboardActivityMonitor.csprojResolveAssemblyReference.cache
+D:\Hovedopgave\HookTest\ApplicationHookTest\MouseKeyboardActivityMonitor\obj\Debug\MouseKeyboardActivityMonitor.dll
+D:\Hovedopgave\HookTest\ApplicationHookTest\MouseKeyboardActivityMonitor\obj\Debug\MouseKeyboardActivityMonitor.pdb
